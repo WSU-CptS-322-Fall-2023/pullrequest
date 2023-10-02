@@ -7,8 +7,8 @@ int h(){
     return 1; //should return int
 }
 
-int  g(int i){
-    int j = 2;
+int  f(int i){
+    int j = 4;
     printf("%d\n", i+j);
     return (i+j);
 }
