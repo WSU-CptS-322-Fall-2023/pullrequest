@@ -4,6 +4,7 @@
 
 int h(){
     printf("function h");
+    return 1; //should return int
 }
 
 int  g(int i){
